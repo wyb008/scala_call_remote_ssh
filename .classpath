@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src/main/scala"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/com/decodified/scala-ssh_2.11/0.9.0/scala-ssh_2.11-0.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/slf4j/slf4j-log4j12/1.7.5/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/slf4j/slf4j-simple/1.6.4/slf4j-simple-1.6.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/org/slf4j/slf4j-jdk14/1.5.6/slf4j-jdk14-1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ybwang1/.m2/repository/com/hierynomus/sshj/0.27.0/sshj-0.27.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
